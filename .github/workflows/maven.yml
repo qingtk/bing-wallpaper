@@ -12,7 +12,13 @@ on:
     - cron:  '5 16 * * *'
     # 每天UTC时间0点5分
     - cron:  '5 0 * * *'
-
+  workflow_dispatch:
+    inputs:
+      environment:
+        description: 'env'
+        type: environment
+        required: true 
+        
 jobs:
   build:
 
