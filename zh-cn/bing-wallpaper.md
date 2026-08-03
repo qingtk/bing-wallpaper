@@ -1,7 +1,7 @@
 ## Bing Wallpaper
-2026-08-03 | [马尔萨什洛克港口五��斑斓的渔船，马耳他 (© Klubovy/Getty Images)](https://cn.bing.com/th?id=OHR.BoatsMalta_ZH-CN4708255775_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
-
 2026-08-03 | [马尔萨什洛克港口五彩斑斓的渔船，马耳他 (© Klubovy/Getty Images)](https://cn.bing.com/th?id=OHR.BoatsMalta_ZH-CN4708255775_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
+2026-08-03 | [马尔萨什洛克港口五��斑斓的渔船，马耳他 (© Klubovy/Getty Images)](https://cn.bing.com/th?id=OHR.BoatsMalta_ZH-CN4708255775_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2026-08-02 | [马尔萨什洛克港口五彩斑斓的渔船，马耳他 (© Klubovy/Getty Images)](https://cn.bing.com/th?id=OHR.HelsinkiBlue_ZH-CN3961551568_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
